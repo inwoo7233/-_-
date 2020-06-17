@@ -11,3 +11,7 @@
 ## 3주차 과제 (2020.06.12)
 
 [3주차 과제 링크](https://github.com/inwoo7233/AI_GITCT2020/blob/master/ai_assignment3.ipynb)
+
+## 4주차 과제 (2020.06.17)
+
+[4주차 과제 링크](https://github.com/inwoo7233/AI_GITCT2020/blob/master/ai_assignment4.ipynb)
